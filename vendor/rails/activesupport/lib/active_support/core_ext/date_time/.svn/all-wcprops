@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/rails/!svn/ver/8711/trunk/activesupport/lib/active_support/core_ext/date_time
+END
+calculations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/rails/!svn/ver/8711/trunk/activesupport/lib/active_support/core_ext/date_time/calculations.rb
+END
+conversions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/rails/!svn/ver/8705/trunk/activesupport/lib/active_support/core_ext/date_time/conversions.rb
+END

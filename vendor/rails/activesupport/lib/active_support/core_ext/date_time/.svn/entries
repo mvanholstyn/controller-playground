@@ -1,0 +1,52 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/activesupport/lib/active_support/core_ext/date_time
+http://svn.rubyonrails.org/rails
+
+
+
+2008-01-23T22:22:36.914239Z
+8711
+gbuesing
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+calculations.rb
+file
+
+
+
+
+2008-03-01T19:21:17.000000Z
+57cab90955f416ae317230a765745f69
+2008-01-23T22:22:36.914239Z
+8711
+gbuesing
+
+conversions.rb
+file
+
+
+
+
+2008-03-01T19:21:17.000000Z
+d6533861db93e3572f76e03191d8f34c
+2008-01-23T16:10:28.550148Z
+8705
+gbuesing
+

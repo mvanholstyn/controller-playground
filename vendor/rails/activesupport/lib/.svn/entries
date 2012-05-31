@@ -1,0 +1,55 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/activesupport/lib
+http://svn.rubyonrails.org/rails
+
+
+
+2008-02-27T23:11:08.616041Z
+8937
+bitsweat
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+active_support
+dir
+
+active_support.rb
+file
+
+
+
+
+2008-03-01T19:21:18.000000Z
+42e1e2723d4e7520ce85ca8aadd55ff7
+2008-01-23T01:56:22.790350Z
+8696
+gbuesing
+
+activesupport.rb
+file
+
+
+
+
+2008-03-01T19:21:18.000000Z
+bffbea7d353bb0c432925a251f96a64b
+2007-09-22T18:15:05.027080Z
+7560
+david
+

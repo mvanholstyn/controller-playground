@@ -1,0 +1,82 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/activeresource
+http://svn.rubyonrails.org/rails
+
+
+
+2008-02-19T23:06:09.774873Z
+8900
+bitsweat
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2008-03-01T19:21:14.000000Z
+dadc5ab033882bafa7e474553372b0df
+2008-01-07T00:12:18.773862Z
+8581
+bitsweat
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2008-03-01T19:21:14.000000Z
+59c1d3f4069de7860dab37b805f1a1ad
+2008-02-09T22:21:55.813607Z
+8827
+nzkoz
+
+MIT-LICENSE
+file
+
+
+
+
+2008-03-01T19:21:14.000000Z
+9295b774cf8bdb151242ab9256dbed39
+2006-09-15T10:13:27.165265Z
+5120
+david
+
+README
+file
+
+
+
+
+2008-03-01T19:21:14.000000Z
+cf2bd47ca626e0c2d19f209cba48c711
+2007-11-06T18:33:45.892110Z
+8090
+marcel
+

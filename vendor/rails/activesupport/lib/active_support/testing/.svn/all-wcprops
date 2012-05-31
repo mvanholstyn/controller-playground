@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/rails/!svn/ver/8664/trunk/activesupport/lib/active_support/testing
+END
+default.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/rails/!svn/ver/8570/trunk/activesupport/lib/active_support/testing/default.rb
+END
+setup_and_teardown.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/rails/!svn/ver/8664/trunk/activesupport/lib/active_support/testing/setup_and_teardown.rb
+END

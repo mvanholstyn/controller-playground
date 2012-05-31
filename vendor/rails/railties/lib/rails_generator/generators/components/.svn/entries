@@ -1,0 +1,61 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/railties/lib/rails_generator/generators/components
+http://svn.rubyonrails.org/rails
+
+
+
+2008-01-12T01:05:36.110622Z
+8629
+rick
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+model
+dir
+
+scaffold
+dir
+
+integration_test
+dir
+
+controller
+dir
+
+observer
+dir
+
+resource
+dir
+
+mailer
+dir
+
+migration
+dir
+
+session_migration
+dir
+
+web_service
+dir
+
+plugin
+dir
+

@@ -1,0 +1,40 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/actionmailer/test/fixtures/path.with.dots/funky_path_mailer
+http://svn.rubyonrails.org/rails
+
+
+
+2008-02-07T23:10:01.050378Z
+8820
+bitsweat
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+multipart_with_template_path_with_dots.erb
+file
+
+
+
+
+2008-03-01T19:21:14.000000Z
+cad24fb207f60087599e59b3430b1b36
+2007-02-21T00:29:44.661503Z
+6180
+david
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/rails/!svn/ver/8937/trunk/activesupport/lib/active_support/core_ext/hash
+END
+indifferent_access.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/rails/!svn/ver/8332/trunk/activesupport/lib/active_support/core_ext/hash/indifferent_access.rb
+END
+slice.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/rails/!svn/ver/5726/trunk/activesupport/lib/active_support/core_ext/hash/slice.rb
+END
+conversions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/rails/!svn/ver/8937/trunk/activesupport/lib/active_support/core_ext/hash/conversions.rb
+END
+diff.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/rails/!svn/ver/8093/trunk/activesupport/lib/active_support/core_ext/hash/diff.rb
+END
+except.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/rails/!svn/ver/7172/trunk/activesupport/lib/active_support/core_ext/hash/except.rb
+END
+reverse_merge.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/rails/!svn/ver/5725/trunk/activesupport/lib/active_support/core_ext/hash/reverse_merge.rb
+END
+keys.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/rails/!svn/ver/8576/trunk/activesupport/lib/active_support/core_ext/hash/keys.rb
+END

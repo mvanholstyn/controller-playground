@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/rails/!svn/ver/8122/trunk/activesupport/lib/active_support/vendor/builder-2.1.2/builder
+END
+blankslate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/rails/!svn/ver/7828/trunk/activesupport/lib/active_support/vendor/builder-2.1.2/builder/blankslate.rb
+END
+xmlmarkup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/rails/!svn/ver/8122/trunk/activesupport/lib/active_support/vendor/builder-2.1.2/builder/xmlmarkup.rb
+END
+xchar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/rails/!svn/ver/7828/trunk/activesupport/lib/active_support/vendor/builder-2.1.2/builder/xchar.rb
+END
+xmlevents.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/rails/!svn/ver/7828/trunk/activesupport/lib/active_support/vendor/builder-2.1.2/builder/xmlevents.rb
+END
+css.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/rails/!svn/ver/7828/trunk/activesupport/lib/active_support/vendor/builder-2.1.2/builder/css.rb
+END
+xmlbase.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/rails/!svn/ver/7828/trunk/activesupport/lib/active_support/vendor/builder-2.1.2/builder/xmlbase.rb
+END

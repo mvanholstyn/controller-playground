@@ -1,0 +1,52 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/railties/lib/rails_generator/generators/applications/app
+http://svn.rubyonrails.org/rails
+
+
+
+2007-12-21T03:39:25.589103Z
+8457
+bitsweat
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+USAGE
+file
+
+
+
+
+2008-03-01T19:21:35.000000Z
+50ee57ad5ab666da2872537ddc4f6bbc
+2007-11-14T19:30:38.648098Z
+8143
+bitsweat
+
+app_generator.rb
+file
+
+
+
+
+2008-03-01T19:21:35.000000Z
+ccbb46a88ad449c4ec2a7aa093ef2afb
+2007-12-21T03:39:25.589103Z
+8457
+bitsweat
+

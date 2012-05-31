@@ -1,0 +1,67 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/activesupport/lib/active_support/json
+http://svn.rubyonrails.org/rails
+
+
+
+2008-01-23T02:46:47.826386Z
+8698
+gbuesing
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+encoders
+dir
+
+variable.rb
+file
+
+
+
+
+2008-03-01T19:21:18.000000Z
+4d23af636d45a50217ebdedae8e56f1d
+2007-10-25T07:09:09.840841Z
+8013
+nzkoz
+
+encoding.rb
+file
+
+
+
+
+2008-03-01T19:21:18.000000Z
+cec50acf72982863acde8ed5547a0d41
+2007-10-04T03:28:42.492266Z
+7736
+bitsweat
+
+decoding.rb
+file
+
+
+
+
+2008-03-01T19:21:18.000000Z
+f3a3de16cb03d18a712579aea93cf568
+2007-12-28T18:37:17.656615Z
+8505
+rick
+

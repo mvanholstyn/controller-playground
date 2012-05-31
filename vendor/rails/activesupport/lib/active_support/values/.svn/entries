@@ -1,0 +1,53 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/activesupport/lib/active_support/values
+http://svn.rubyonrails.org/rails
+
+
+
+2008-02-10T17:02:22.652066Z
+8847
+gbuesing
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+unicode_tables.dat
+file
+
+
+
+
+2008-03-01T19:21:17.000000Z
+3dbd2c4b3e8ad234003ad55025670126
+2006-10-04T09:03:57.853180Z
+5224
+nzkoz
+has-props
+
+time_zone.rb
+file
+
+
+
+
+2008-03-01T19:21:17.000000Z
+6b9c9a522ce7da0f8b33294437e9b6aa
+2008-02-10T17:02:22.652066Z
+8847
+gbuesing
+

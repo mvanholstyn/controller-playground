@@ -1,0 +1,40 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/actionmailer/test/fixtures/second_mailer
+http://svn.rubyonrails.org/rails
+
+
+
+2008-02-07T23:10:01.050378Z
+8820
+bitsweat
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+share.erb
+file
+
+
+
+
+2008-03-01T19:21:14.000000Z
+88c9a887236a8991e9fab0eb0aa7d7b9
+2007-02-21T00:29:44.661503Z
+6180
+david
+

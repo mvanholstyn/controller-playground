@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/rails/!svn/ver/8819/trunk/actionpack/lib/action_controller/caching
+END
+pages.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/rails/!svn/ver/8546/trunk/actionpack/lib/action_controller/caching/pages.rb
+END
+actions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/rails/!svn/ver/8546/trunk/actionpack/lib/action_controller/caching/actions.rb
+END
+sweeping.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/rails/!svn/ver/8819/trunk/actionpack/lib/action_controller/caching/sweeping.rb
+END
+sql_cache.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/rails/!svn/ver/8546/trunk/actionpack/lib/action_controller/caching/sql_cache.rb
+END
+fragments.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/rails/!svn/ver/8619/trunk/actionpack/lib/action_controller/caching/fragments.rb
+END

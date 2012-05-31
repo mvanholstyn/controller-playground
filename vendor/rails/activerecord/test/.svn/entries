@@ -1,0 +1,64 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/activerecord/test
+http://svn.rubyonrails.org/rails
+
+
+
+2008-02-29T23:16:53.342759Z
+8957
+nzkoz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+associations
+dir
+
+schema
+dir
+
+assets
+dir
+
+connections
+dir
+
+models
+dir
+
+config.rb
+file
+
+
+
+
+2008-03-01T19:21:22.000000Z
+2cec417ec9966c979e5314731c20060f
+2008-01-21T17:20:51.704531Z
+8681
+bitsweat
+
+fixtures
+dir
+
+migrations
+dir
+
+cases
+dir
+

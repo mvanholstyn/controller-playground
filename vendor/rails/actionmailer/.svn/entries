@@ -1,0 +1,96 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/actionmailer
+http://svn.rubyonrails.org/rails
+
+
+
+2008-02-07T23:10:01.050378Z
+8820
+bitsweat
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2008-03-01T19:21:15.000000Z
+9c12fa714b2e539c1f9e2a98dde6f79e
+2008-01-19T03:03:28.824165Z
+8665
+bitsweat
+has-props
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2008-03-01T19:21:15.000000Z
+7cc2a3431b82a59170b61a7591894313
+2008-02-02T05:32:15.344621Z
+8781
+bitsweat
+
+install.rb
+file
+
+
+
+
+2008-03-01T19:21:15.000000Z
+8f2cf06de1b064108fb9138dc450d82b
+2007-09-28T14:18:47.653818Z
+7666
+david
+
+MIT-LICENSE
+file
+
+
+
+
+2008-03-01T19:21:15.000000Z
+0215e063ea54f0df0617e94b7f2d759c
+2007-09-09T17:57:16.117155Z
+7425
+david
+
+README
+file
+
+
+
+
+2008-03-01T19:21:15.000000Z
+067c754371f8b6ed44770e143a8421bf
+2007-11-08T03:39:15.758607Z
+8114
+marcel
+has-props
+

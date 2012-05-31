@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rails/!svn/ver/8922/trunk/activerecord/test/schema
+END
+openbase2.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/openbase2.drop.sql
+END
+sqlite2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/sqlite2.sql
+END
+frontbase.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/frontbase.sql
+END
+sqlite2.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/sqlite2.drop.sql
+END
+frontbase.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/frontbase.drop.sql
+END
+oracle2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/oracle2.sql
+END
+sybase.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/sybase.drop.sql
+END
+db22.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/db22.sql
+END
+firebird.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/firebird.drop.sql
+END
+oracle2.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/oracle2.drop.sql
+END
+db22.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/db22.drop.sql
+END
+openbase.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/openbase.sql
+END
+sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/sqlite.sql
+END
+sqlite.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/sqlite.drop.sql
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/rails/!svn/ver/8914/trunk/activerecord/test/schema/schema.rb
+END
+oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/oracle.sql
+END
+db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/db2.sql
+END
+oracle.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/oracle.drop.sql
+END
+db2.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/db2.drop.sql
+END
+sybase2.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/sybase2.drop.sql
+END
+firebird2.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/firebird2.drop.sql
+END
+openbase2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/openbase2.sql
+END
+postgresql2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/postgresql2.sql
+END
+firebird.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/firebird.sql
+END
+schema2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/schema2.rb
+END
+sybase.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/sybase.sql
+END
+postgresql2.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/postgresql2.drop.sql
+END
+openbase.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/openbase.drop.sql
+END
+postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/rails/!svn/ver/8922/trunk/activerecord/test/schema/postgresql.sql
+END
+frontbase2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/frontbase2.sql
+END
+postgresql.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/postgresql.drop.sql
+END
+firebird2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/firebird2.sql
+END
+frontbase2.drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/frontbase2.drop.sql
+END
+sybase2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/rails/!svn/ver/8659/trunk/activerecord/test/schema/sybase2.sql
+END

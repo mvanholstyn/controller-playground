@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/rails/!svn/ver/8921/trunk/railties
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/rails/!svn/ver/8569/trunk/railties/Rakefile
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/rails/!svn/ver/8921/trunk/railties/CHANGELOG
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/rails/!svn/ver/7425/trunk/railties/MIT-LICENSE
+END
+fresh_rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rails/!svn/ver/4030/trunk/railties/fresh_rakefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/rails/!svn/ver/8155/trunk/railties/README
+END

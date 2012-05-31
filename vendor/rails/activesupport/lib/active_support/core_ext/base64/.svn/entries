@@ -1,0 +1,40 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/activesupport/lib/active_support/core_ext/base64
+http://svn.rubyonrails.org/rails
+
+
+
+2008-02-07T21:50:46.659581Z
+8817
+bitsweat
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+encoding.rb
+file
+
+
+
+
+2008-03-01T19:21:18.000000Z
+3381dc205b16493ec00dab674a060156
+2008-02-07T21:50:46.659581Z
+8817
+bitsweat
+

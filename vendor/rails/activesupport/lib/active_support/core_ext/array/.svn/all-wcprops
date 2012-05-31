@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/rails/!svn/ver/8384/trunk/activesupport/lib/active_support/core_ext/array
+END
+access.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/rails/!svn/ver/8224/trunk/activesupport/lib/active_support/core_ext/array/access.rb
+END
+random_access.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/rails/!svn/ver/7490/trunk/activesupport/lib/active_support/core_ext/array/random_access.rb
+END
+extract_options.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/rails/!svn/ver/7217/trunk/activesupport/lib/active_support/core_ext/array/extract_options.rb
+END
+conversions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/rails/!svn/ver/8384/trunk/activesupport/lib/active_support/core_ext/array/conversions.rb
+END
+grouping.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/rails/!svn/ver/8161/trunk/activesupport/lib/active_support/core_ext/array/grouping.rb
+END

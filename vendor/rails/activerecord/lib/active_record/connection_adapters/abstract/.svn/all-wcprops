@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/rails/!svn/ver/8881/trunk/activerecord/lib/active_record/connection_adapters/abstract
+END
+connection_specification.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/rails/!svn/ver/8481/trunk/activerecord/lib/active_record/connection_adapters/abstract/connection_specification.rb
+END
+quoting.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/rails/!svn/ver/7932/trunk/activerecord/lib/active_record/connection_adapters/abstract/quoting.rb
+END
+schema_statements.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/rails/!svn/ver/8439/trunk/activerecord/lib/active_record/connection_adapters/abstract/schema_statements.rb
+END
+query_cache.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/rails/!svn/ver/7908/trunk/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb
+END
+database_statements.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/rails/!svn/ver/8113/trunk/activerecord/lib/active_record/connection_adapters/abstract/database_statements.rb
+END
+schema_definitions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/rails/!svn/ver/8881/trunk/activerecord/lib/active_record/connection_adapters/abstract/schema_definitions.rb
+END

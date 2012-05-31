@@ -1,0 +1,31 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/actionmailer/lib/action_mailer/vendor/tmail-1.2.1
+http://svn.rubyonrails.org/rails
+
+
+
+2008-01-19T03:13:34.921027Z
+8667
+bitsweat
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+tmail
+dir
+

@@ -1,0 +1,53 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/actionpack/test/controller/session
+http://svn.rubyonrails.org/rails
+
+
+
+2008-01-07T08:12:03.977888Z
+8589
+bitsweat
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+cookie_store_test.rb
+file
+
+
+
+
+2008-03-01T19:21:25.000000Z
+da279cbb45cbab909f7b7930a9a7031f
+2008-01-07T08:12:03.977888Z
+8589
+bitsweat
+has-props
+
+mem_cache_store_test.rb
+file
+
+
+
+
+2008-03-01T19:21:25.000000Z
+46d145e7c1885a9b9cc918c01ac21b02
+2008-01-05T13:32:06.034896Z
+8564
+bitsweat
+

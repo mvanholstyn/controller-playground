@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rails/!svn/ver/8118/trunk/activemodel/lib/active_model
+END
+validations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/rails/!svn/ver/8118/trunk/activemodel/lib/active_model/validations.rb
+END
+observing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/rails/!svn/ver/8118/trunk/activemodel/lib/active_model/observing.rb
+END
+callbacks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/rails/!svn/ver/8118/trunk/activemodel/lib/active_model/callbacks.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/rails/!svn/ver/8118/trunk/activemodel/lib/active_model/base.rb
+END

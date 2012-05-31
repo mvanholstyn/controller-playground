@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/rails/!svn/ver/6188/trunk/actionpack/test/fixtures/public/javascripts
+END
+bank.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/rails/!svn/ver/6164/trunk/actionpack/test/fixtures/public/javascripts/bank.js
+END
+robber.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/rails/!svn/ver/6164/trunk/actionpack/test/fixtures/public/javascripts/robber.js
+END
+application.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/rails/!svn/ver/5875/trunk/actionpack/test/fixtures/public/javascripts/application.js
+END

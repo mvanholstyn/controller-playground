@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/rails/!svn/ver/8820/trunk/actionmailer/test
+END
+test_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/rails/!svn/ver/8570/trunk/actionmailer/test/test_helper_test.rb
+END
+mail_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/rails/!svn/ver/8565/trunk/actionmailer/test/mail_helper_test.rb
+END
+mail_render_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/rails/!svn/ver/8565/trunk/actionmailer/test/mail_render_test.rb
+END
+mail_service_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/rails/!svn/ver/8820/trunk/actionmailer/test/mail_service_test.rb
+END
+url_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/rails/!svn/ver/8565/trunk/actionmailer/test/url_test.rb
+END
+abstract_unit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/rails/!svn/ver/8111/trunk/actionmailer/test/abstract_unit.rb
+END
+delivery_method_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/rails/!svn/ver/8565/trunk/actionmailer/test/delivery_method_test.rb
+END
+quoting_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rails/!svn/ver/8666/trunk/actionmailer/test/quoting_test.rb
+END
+tmail_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/rails/!svn/ver/8565/trunk/actionmailer/test/tmail_test.rb
+END

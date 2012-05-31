@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/rails/!svn/ver/8766/trunk/activesupport/lib/active_support/vendor/memcache-client-1.5.0
+END
+memcache.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/rails/!svn/ver/8766/trunk/activesupport/lib/active_support/vendor/memcache-client-1.5.0/memcache.rb
+END

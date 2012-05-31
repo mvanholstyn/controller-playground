@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/rails/!svn/ver/8820/trunk/actionmailer/test/fixtures/helper_mailer
+END
+use_helper.erb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/rails/!svn/ver/6180/trunk/actionmailer/test/fixtures/helper_mailer/use_helper.erb
+END
+use_helper_method.erb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/rails/!svn/ver/6180/trunk/actionmailer/test/fixtures/helper_mailer/use_helper_method.erb
+END
+use_mail_helper.erb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/rails/!svn/ver/6180/trunk/actionmailer/test/fixtures/helper_mailer/use_mail_helper.erb
+END
+use_example_helper.erb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/rails/!svn/ver/6180/trunk/actionmailer/test/fixtures/helper_mailer/use_example_helper.erb
+END

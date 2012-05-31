@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/rails/!svn/ver/8660/trunk/activerecord/test/connections/native_openbase
+END
+connection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/rails/!svn/ver/8660/trunk/activerecord/test/connections/native_openbase/connection.rb
+END

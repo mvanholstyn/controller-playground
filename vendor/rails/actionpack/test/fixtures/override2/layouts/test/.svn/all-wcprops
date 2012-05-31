@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/rails/!svn/ver/7322/trunk/actionpack/test/fixtures/override2/layouts/test
+END
+sub.erb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/rails/!svn/ver/7322/trunk/actionpack/test/fixtures/override2/layouts/test/sub.erb
+END

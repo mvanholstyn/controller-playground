@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/rails/!svn/ver/8937/trunk/activesupport/lib/active_support
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/rails/!svn/ver/7092/trunk/activesupport/lib/active_support/inflections.rb
+END
+multibyte.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/rails/!svn/ver/7917/trunk/activesupport/lib/active_support/multibyte.rb
+END
+callbacks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/rails/!svn/ver/8664/trunk/activesupport/lib/active_support/callbacks.rb
+END
+buffered_logger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/rails/!svn/ver/8638/trunk/activesupport/lib/active_support/buffered_logger.rb
+END
+clean_logger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/rails/!svn/ver/7719/trunk/activesupport/lib/active_support/clean_logger.rb
+END
+time_with_zone.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/rails/!svn/ver/8886/trunk/activesupport/lib/active_support/time_with_zone.rb
+END
+base64.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/rails/!svn/ver/8817/trunk/activesupport/lib/active_support/base64.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/rails/!svn/ver/8419/trunk/activesupport/lib/active_support/version.rb
+END
+duration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/rails/!svn/ver/8523/trunk/activesupport/lib/active_support/duration.rb
+END
+inflector.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/rails/!svn/ver/8788/trunk/activesupport/lib/active_support/inflector.rb
+END
+dependencies.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/rails/!svn/ver/8482/trunk/activesupport/lib/active_support/dependencies.rb
+END
+vendor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/rails/!svn/ver/8546/trunk/activesupport/lib/active_support/vendor.rb
+END
+deprecation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/rails/!svn/ver/7474/trunk/activesupport/lib/active_support/deprecation.rb
+END
+ordered_options.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/rails/!svn/ver/7817/trunk/activesupport/lib/active_support/ordered_options.rb
+END
+whiny_nil.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/rails/!svn/ver/6818/trunk/activesupport/lib/active_support/whiny_nil.rb
+END
+cache.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/rails/!svn/ver/8764/trunk/activesupport/lib/active_support/cache.rb
+END
+basic_object.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/rails/!svn/ver/8523/trunk/activesupport/lib/active_support/basic_object.rb
+END
+core_ext.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/rails/!svn/ver/7719/trunk/activesupport/lib/active_support/core_ext.rb
+END
+gzip.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/rails/!svn/ver/8546/trunk/activesupport/lib/active_support/gzip.rb
+END
+json.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/rails/!svn/ver/6443/trunk/activesupport/lib/active_support/json.rb
+END
+option_merger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/rails/!svn/ver/7659/trunk/activesupport/lib/active_support/option_merger.rb
+END
+test_case.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/rails/!svn/ver/8570/trunk/activesupport/lib/active_support/test_case.rb
+END

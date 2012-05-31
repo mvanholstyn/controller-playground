@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/rails/!svn/ver/8915/trunk/railties/test
+END
+fcgi_dispatcher_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/rails/!svn/ver/8568/trunk/railties/test/fcgi_dispatcher_test.rb
+END
+plugin_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rails/!svn/ver/8568/trunk/railties/test/plugin_test.rb
+END
+rails_generator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/rails/!svn/ver/7593/trunk/railties/test/rails_generator_test.rb
+END
+plugin_locator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/rails/!svn/ver/8915/trunk/railties/test/plugin_locator_test.rb
+END
+console_app_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rails/!svn/ver/8568/trunk/railties/test/console_app_test.rb
+END
+initializer_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rails/!svn/ver/8568/trunk/railties/test/initializer_test.rb
+END
+boot_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rails/!svn/ver/8568/trunk/railties/test/boot_test.rb
+END
+abstract_unit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/rails/!svn/ver/7593/trunk/railties/test/abstract_unit.rb
+END
+plugin_loader_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rails/!svn/ver/8568/trunk/railties/test/plugin_loader_test.rb
+END
+rails_info_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/rails/!svn/ver/7235/trunk/railties/test/rails_info_test.rb
+END
+rails_info_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/rails/!svn/ver/8568/trunk/railties/test/rails_info_controller_test.rb
+END
+secret_key_generation_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/rails/!svn/ver/8229/trunk/railties/test/secret_key_generation_test.rb
+END
+plugin_test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rails/!svn/ver/8115/trunk/railties/test/plugin_test_helper.rb
+END

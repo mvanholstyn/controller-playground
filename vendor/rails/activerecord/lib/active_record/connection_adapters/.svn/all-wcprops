@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/rails/!svn/ver/8922/trunk/activerecord/lib/active_record/connection_adapters
+END
+sqlite_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/rails/!svn/ver/8571/trunk/activerecord/lib/active_record/connection_adapters/sqlite_adapter.rb
+END
+abstract_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/rails/!svn/ver/8670/trunk/activerecord/lib/active_record/connection_adapters/abstract_adapter.rb
+END
+postgresql_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/rails/!svn/ver/8922/trunk/activerecord/lib/active_record/connection_adapters/postgresql_adapter.rb
+END
+sqlite3_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/rails/!svn/ver/8571/trunk/activerecord/lib/active_record/connection_adapters/sqlite3_adapter.rb
+END
+mysql_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/rails/!svn/ver/8794/trunk/activerecord/lib/active_record/connection_adapters/mysql_adapter.rb
+END

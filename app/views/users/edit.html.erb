@@ -1,0 +1,27 @@
+<h1>Editing user</h1>
+
+<%= error_messages_for :user, :object => @presenter.user %>
+
+<% form_for(@presenter.user) do |f| %>
+  <p>
+    <b>First name</b><br />
+    <%= f.text_field :first_name %>
+  </p>
+
+  <p>
+    <b>Last name</b><br />
+    <%= f.text_field :last_name %>
+  </p>
+
+  <p>
+    <b>Email address</b><br />
+    <%= f.text_field :email_address %>
+  </p>
+
+  <p>
+    <%= f.submit "Update" %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @presenter.user %> |
+<%= link_to 'Back', users_path %>

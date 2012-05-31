@@ -1,0 +1,40 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/actionpack/test/controller/deprecation
+http://svn.rubyonrails.org/rails
+
+
+
+2008-01-05T13:32:06.034896Z
+8564
+bitsweat
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+deprecated_base_methods_test.rb
+file
+
+
+
+
+2008-03-01T19:21:26.000000Z
+22927c1604f168fffe6b3e44b52a9a2e
+2008-01-05T13:32:06.034896Z
+8564
+bitsweat
+

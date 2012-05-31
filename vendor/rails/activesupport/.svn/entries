@@ -1,0 +1,94 @@
+8
+
+dir
+8962
+http://svn.rubyonrails.org/rails/trunk/activesupport
+http://svn.rubyonrails.org/rails
+
+
+
+2008-02-27T23:11:08.616041Z
+8937
+bitsweat
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ecf4fe2-1ee6-0310-87b1-e25e094e27de
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2008-03-01T19:21:19.000000Z
+8d4420efcb27942d2eaa7e774c2ccd4f
+2007-12-27T11:17:14.442344Z
+8489
+bitsweat
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2008-03-01T19:21:19.000000Z
+88cc9c6a46215fbd3e2de27718625f68
+2008-02-27T23:03:10.735589Z
+8935
+bitsweat
+
+install.rb
+file
+
+
+
+
+2008-03-01T19:21:19.000000Z
+9da3f42670ac0f6264d66f1427b2970d
+2007-09-28T14:18:47.653818Z
+7666
+david
+
+MIT-LICENSE
+file
+
+
+
+
+2008-03-01T19:21:19.000000Z
+118f5a7d2a0c4e8a943171f5ded7040d
+2007-12-14T17:47:56.918736Z
+8382
+david
+
+README
+file
+
+
+
+
+2008-03-01T19:21:19.000000Z
+6d5825d5dbcc4f0d3d158618837d7b23
+2005-11-07T09:51:47.108770Z
+2908
+david
+
